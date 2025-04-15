@@ -203,8 +203,6 @@ Our project reveals profound insights at the intersection of advanced AI methods
 
 As we look ahead, the possibilities for exploration are limitless. Going deeper into our CNN architectures, innovating with new data augmentation techniques, and delving into advanced transfer learning strategies offer potential for refining our models' effectiveness. The integration of broader and more diverse datasets holds the potential to create AI models that better grasp the intricacies of the real world. Additionally, fine-tuning parameters and hyperparameters could lead to gradual improvements in performance. Beyond the technical realm, the application of AI in specialized fields like medical image analysis or environmental monitoring invites us to lead AI's transformative potential into uncharted territories.
 
-## Credits
-This project is in collaboration with Aman Khakharia (https://github.com/ACM40960/project-Aman-Khakharia-22204876)
 
 ## References
 
